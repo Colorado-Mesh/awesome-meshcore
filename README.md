@@ -68,7 +68,7 @@ or IoT sensor networks.
 | :--- | :--- | :---: | :--- |
 | [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Cardputer ADV Specialized UI | 59 | Jan 26 |
 | [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
-| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
+| [MC Term (Dabeani)](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
 | [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 26 |
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | 6 | Jan 26 |
