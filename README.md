@@ -17,9 +17,8 @@ or IoT sensor networks.
 - [Preinstalled devices](#preinstalled-devices)
 - [Bots](#bots)
 - [Country / region Websites](#country--region-websites)
-- [Country / region Discord](#country--region-discord)
+- [Chatgroups/ forums/ ...](#chatgroups-forums-)
 
-   
 --------------------
 
 ## Official Resources
@@ -121,10 +120,13 @@ or IoT sensor networks.
 - France
   - [Meshcore France](https://www.meshcore.fr/) 
 - Germany
-  - [Braunschweig Mesh](https://bsmesh.de/ )
-  - [Hamburg Mesh](https://hansemesh.de/) 
+  - German MeshCore wiki: [meshcore-de.fyi](https://meshcore-de.fyi/)
+  - [Braunschweig Mesh](https://bsmesh.de/)
+  - [Hansemesh](https://hansemesh.de/) (greater Hamburg region)
   - [Mesh Rheinland](https://www.meshrheinland.de/)
-  - [Taunus Mesh](https://www.taunus-mesh.de/)
+  - [Taunus Mesh](https://www.taunus-mesh.de/) (area enclosed by Frankfuurt(Main), Bingen, Koblenz, Giessen)
+  - [Sachsen (mostly Leipzig)](https://mesh-sn.de)
+  - [VoyagerMesh Dresden](https://loramesh-dresden.de/)
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswich Net](https://ipnt.uk/)
@@ -190,17 +192,36 @@ or IoT sensor networks.
   - [NSW Mesh](https://nswmesh.au/)
 
 
-## Country / region Discord
+## Chatgroups/ forums/ ...
 
-- [Official Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within this dscord server
+### Global
 
-In addition there is:
+- [Official Discord](https://discord.gg/mt7NNZ86RS)
+  Many regional channels exist within this discord server
+- [Reddit r/meshcore](https://www.reddit.com/r/meshcore/)
+- [Forum forum.letsmesh.net](https://forum.letsmesh.net/)
+  - with some regional sub-forums
+
+In addition, there are e.g.:
 
 ### Europe
+
+#### France
 - [MeshCore France Discord](https://discord.gg/GNAfMf7nVw)
+
+#### Ireland
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
-### USA
+#### Germany
+- Matrix room "[MeshCore DE](https://matrix.to/#/#meshcore-netzwerk-de:matrix.org)" inside matrix space "[Mesh Netzwerke DE](https://matrix.to/#/#mesh-netzwerke-de:matrix.org)"
+- Signal group "[MeshCore-DE](https://signal.group/#CjQKIFhhdRM1Aeju45MYU8CWOkytMM8E741caAtrSvkDRaJ3EhBu5zU7KUA4w3ad35lIi8Su)"
+- Telegram group "[MeshCore DE](https://t.me/meshcorede)"
+- Discord "[MeshCore DE](https://discord.gg/uTMJQhh2P5)"
+- [WhatsApp group](https://chat.whatsapp.com/KDintomf4QoCu2GkPrnIn1)
+
+### North America
+
+#### USA
 - [Boston Mesh Discord](https://discord.gg/MUVASVEEES)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [West coast Mesh Discord](https://discord.gg/wcmesh)
