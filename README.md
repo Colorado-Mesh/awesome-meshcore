@@ -61,6 +61,7 @@ or IoT sensor networks.
 | [Tui-Meshcore](https://github.com/guax/tui-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/guax/tui-meshcore?style=social)  | A TUI based meshcore client for linux hosts |  Feb 26 |
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) ![GitHub Repo stars](https://img.shields.io/github/stars/lucidnx/meshcore-drone-updater?style=social)  | updates meshcore nodes via drones to upgrade firmware on physically unreachable nodes |  Dec 25 |
 | [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social)  | Desktop Linux GUI via BLE |  Feb 26 |
+| [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
 
 ## Free and Open Source firmware
 
