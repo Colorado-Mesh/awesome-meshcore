@@ -13,6 +13,7 @@ or IoT sensor networks.
 - [Other Resources](#other-resources)
 - [Open Source apps](#free-and-open-source-apps)
 - [Open Source Firmware](#free-and-open-source-firmware)
+- [Software Libraries](#software-libraries)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Preinstalled devices](#preinstalled-devices)
 - [Bots](#bots)
@@ -60,11 +61,13 @@ or IoT sensor networks.
 | [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) ![GitHub Repo stars](https://img.shields.io/github/stars/ipnet-mesh/meshcore-hub?style=social)  | Web frontend for Meshcore stats |  Dec 25 |
 | [Meshcore Web Keygen](https://github.com/agessaman/meshcore-web-keygen) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social)  | Generate keys with custom hex prefixes [public instance](https://gessaman.com/mc-keygen/) |  Aug 25 |
 | [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social)  | Desktop application for MeshCore | Jan 26 |
+| [Meshcore SAR](https://github.com/dz0ny/meshcore-sar) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-sar?style=social) | Helps teams coordinate in low-connectivity or no-connectivity environments with messaging, voice, images, maps, and live location context in one app. | Feb 26 |
 | [Sestriere](https://github.com/atomozero/Sestriere) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/Sestriere?style=social) | Native MeshCore client for Haiku OS. | Feb 26 |
 | [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/meshcore-team-alpha?style=social)  | Android application for position tracking and messaging | Jan 26 |
 | [Tui-Meshcore](https://github.com/guax/tui-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/guax/tui-meshcore?style=social)  | A TUI based meshcore client for linux hosts |  Feb 26 |
 | [Meshcore Drone Updater](https://github.com/lucidnx/meshcore-drone-updater) ![GitHub Repo stars](https://img.shields.io/github/stars/lucidnx/meshcore-drone-updater?style=social)  | updates meshcore nodes via drones to upgrade firmware on physically unreachable nodes |  Dec 25 |
 | [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social)  | Desktop Linux GUI via BLE |  Feb 26 |
+| [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
 
 ## Free and Open Source firmware
 
@@ -74,11 +77,22 @@ or IoT sensor networks.
 | [Lunacore](https://github.com/STCisGOOD/lunarcore) | ESP32 Multi-protocol firmware (MeshCore/MT/Reticulum) | 58 | Jan 26 |
 | [MC Term (Dabeani)](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 50 | Jan 26 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Wio Tracker L1 Pro Custom firmware | 28 | Jan 26 |
+| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 18 | ?? (fork of [official firmware](https://github.com/meshcore-dev/MeshCore), kept in sync (as of 2026-02-26)) |
 | [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Cardputer ADV Specialized UI | 17 | Feb 26 |
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | 6 | Jan 26 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 25 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 26 |
-| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/releases) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 10 (as of 2026-02-26) | ?? (fork of [official firmware](https://github.com/meshcore-dev/MeshCore), kept in sync (as of 2026-02-26)) |
+| [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) |  MeshCore addon for Heltec WiFi LoRa 32 V4 | 2 | Feb 26 |
+| [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | 1 | Jan 26 |
+
+
+
+## Software Libraries
+
+| Project Name | Description | Stars | First Commit |
+| :--- | :--- | :---: | :--- |
+| [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | 1 | Feb 26 |
+| [Meshcore Client](https://github.com/dz0ny/meshcore_client) | Flutter/Dart package implementing the MeshCore BLE companion protocol | 1 | Feb 26 |
 
 
 ## Maps and Diagnostics
@@ -111,8 +125,10 @@ or IoT sensor networks.
 | :--- | :--- | :--- |
 | [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
+| [Meshcore to Discord Bridge](https://github.com/Hude06/MeshCoreDiscordBridge) | Serial | provides a bridge between MeshCore and Discord. |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 | [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
+
 
 
 ## Country / region Websites
